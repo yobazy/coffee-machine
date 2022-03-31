@@ -1,4 +1,4 @@
-# coffee_machine-v1.0.0
+# coffee-machine
 
 Coffee machine is a python project completed in the Python Core track on Jetbrains Academy. This is a 'medium' level difficulty project.
 
